@@ -1,3 +1,4 @@
 | Nome | RA |
 |:---|:---|
 |Guilherme Henirque Colis|2026109081|
+| Yuri | 2026109587 |
